@@ -1,4 +1,4 @@
-
+# Author : Lakshya Marodia(18_Sep_24)
 # 🐍 Snake-Water-Gun Game
 
 A Python implementation of the popular **Snake-Water-Gun** game, similar to Rock-Paper-Scissors, where:
